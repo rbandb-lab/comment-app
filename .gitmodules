@@ -1,0 +1,7 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rbandb-lab/back-comment
+
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rbandb-lab/front-comment
